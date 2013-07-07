@@ -5,7 +5,7 @@
 ```puppet
 include Spectacle
 ```
-
+[Spectacle Website](http://spectacleapp.com/)
 ## Required Puppet Modules
 
 * boxen
