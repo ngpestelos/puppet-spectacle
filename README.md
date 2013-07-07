@@ -5,7 +5,7 @@
 ## Usage
 
 ```puppet
-include Spectacle
+include spectacle
 ```
 [Spectacle Website](http://spectacleapp.com/)
 ## Required Puppet Modules
